@@ -31,6 +31,7 @@ Este é um projeto fullstack de um e-commerce simples, desenvolvido com **Next.j
 
 fullstack-ecommerce-next-spring/
 ├── backend-spring/ # Backend em Spring Boot
+
 └── frontend-next/ # Frontend em Next.js
 
 
